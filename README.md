@@ -35,9 +35,15 @@
    * Explain why it's essential for new engineers (in your own words)
 
 **Answer:** 
-*TYPE_YOUR_ANSWER_HERE*
+grep
+Function: use to globally search for regular expression and print out. It searches for pattern from input and displays all lines that contain that pattern
+Essential: instead of scrolling through a huge chunk of code to find errors or bugs, this command lets us instantly filter for exactly what we need when we analyze massive terminal outputs or huge codebases.
+
+chmod
+Function: it stands for change mode, it modifies file or directory access by combining r,w,x permissions.
+Essential: Sometime you could run into "permission denied" error even when youre running your own code/scripts. this command lets us actually run the files we build, while ensuring important system directories remain secure from accidental edits.
 
 2. After one and a half years in the ISNE program, what advice would you give to prospective ISNE students? (Minimum 50 words)
 
 **Answer:** 
-*TYPE_YOUR_ANSWER_HERE*
+Attend your fricking lectures, please. For a subject that is heavily code-based, I'd say attending lectures would make you understand it better because the teacher is literally right there and you could just straight up ask him, like how a chud would ask Dr. Ken, which is by no mean an embarrassing thing to do, it shows your motivation to learn and willing to understand. Also, practice, practice, practice writing code. It's like speaking or learning a new language. If you don't speak, write, or practice listening often, you will suck at it. Lastly, build yourself a good habit of using the correct syntax when writing lines.
